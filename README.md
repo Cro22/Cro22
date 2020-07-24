@@ -1,4 +1,9 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cro22&show_icons=true&theme=radical&show_icons=true&count_private=true)
+<a href="https://github.com/cross">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cro22&show_icons=true&theme=radical&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/cross">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cro22&show_icons=true&theme=radical&show_icons=true&count_private=true" />
+</a>
 <!--
 **Cro22/Cro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
