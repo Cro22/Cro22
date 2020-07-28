@@ -6,7 +6,7 @@ I have worked on this for more than 4 years. I have used Laravel, NodeJs, MySQL,
 
 I love using Wordpress because it is open source and its modular architecture implemented within a plugin manager and theme system makes web development faster.
 
-However, I consider that each tool should be used intelligently, which is why I like to relarize analysis of requirements, data and business models, to recommend the development environment that best suits the needs of each project.
+However, I consider that each tool should be used intelligently, which is why I like to realize analysis of requirements, data and business models, to recommend the development environment that best suits the needs of each project.
 
 I believe that to achieve each objective of a project there must be good communication between the entire development team (I really like work teams) and that there must be a playful and coordinated atmosphere, where everyone can give voice to their ideas without fear.
 
