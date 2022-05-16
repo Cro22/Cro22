@@ -1,5 +1,5 @@
 # Hi! I am Jesus Nuñez :wave:
-<img src="https://raw.githubusercontent.com/Cro22/Cro22/master/banner.png" alt="banner that says Jesus Nuñez - Full Stack Web Dev, WordPress plugin Dev,  Unreal Games Dev">
+<img src="https://raw.githubusercontent.com/Cro22/Cro22/master/banner-2.jpg" alt="banner that says Jesus Nuñez - Full Stack Web Dev, WordPress plugin Dev,  Unreal Games Dev">
 I am a web developer with a career in systems engineering from UNEFA-Aragua, Venezuela, I am a fan of learning new things.
 
 I have worked on this for more than 4 years. I have used Laravel, NodeJs, MySQL, MongoDB, Vue CLI, Angular CLI, Go and Wordpress in my previous experiences
