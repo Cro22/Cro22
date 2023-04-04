@@ -1,16 +1,16 @@
 # Hi! I am Jesus Nuñez :wave:
-<img src="https://raw.githubusercontent.com/Cro22/Cro22/master/banner-2.jpg" alt="banner that says Jesus Nuñez - Full Stack Web Dev, WordPress plugin Dev,  Unreal Games Dev">
-I am a web developer with a career in systems engineering from UNEFA-Aragua, Venezuela, I am a fan of learning new things.
+<img src="https://raw.githubusercontent.com/Cro22/Cro22/master/banner-2.png" alt="banner that says Jesus Nuñez - Full Stack Web Dev, WordPress plugin Dev,  Unreal Games Dev">
+As a seasoned Full Stack Developer and Tech Manager with over 8 years of experience in the industry, I have worked with a wide range of technologies including Node.js, NestJS, Go, React, Vue, GCP, MySQL, Redis, and Jenkins among others.
 
-I have worked on this for more than 4 years. I have used Laravel, NodeJs, MySQL, MongoDB, Vue CLI, Angular CLI, Go and Wordpress in my previous experiences
+My experience includes managing teams of Tech Leads, Front-end developers, Back-end developers, QA, and Project Managers to ensure the successful delivery of software projects using various technologies such as Nodejs, React, GCP, Jenkins, MySQL, Redis, and Go.
 
-I love using Wordpress because it is open source and its modular architecture implemented within a plugin manager and theme system makes web development faster.
+As a back-end developer, I take pride in my ability to design and implement scalable, robust, and secure systems that meet the needs of my clients. With a strong focus on quality and scalability, I strive to deliver high-quality solutions to clients.
 
-However, I consider that each tool should be used intelligently, which is why I like to realize analysis of requirements, data and business models, to recommend the development environment that best suits the needs of each project.
+Fostering a positive work environment, supporting team growth, and ensuring they stay updated on the latest trends and technologies in software development is essential to achieving success in software projects.
 
-I believe that to achieve each objective of a project there must be good communication between the entire development team (I really like work teams) and that there must be a playful and coordinated atmosphere, where everyone can give voice to their ideas without fear.
+In my current role as a Tech Manager, I manage a team of three Tech Leads, six Front-end developers, six Back-end developers, four QA, and three PMs to ensure the successful delivery of software projects using technologies such as Nodejs, React, GCP, Jenkins, MySQL, Redis, and Go.
 
-I love video games (Nier Series, Borderlans Series, Metro Exodus, BioShock Series, they are some of my favorites) and good movies (Comedies, horror and, of course, fantasy). 
+Outside of work, I am an avid gamer and reader. I find that playing video games and diving into new books helps me relax and recharge, allowing me to return to my work with fresh perspectives and renewed energy.
 
 ## Things I am passionate about
 
