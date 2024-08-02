@@ -21,7 +21,6 @@ Outside of work, I am an avid gamer and reader. I find that playing video games 
 
 ## Get in touch :coffee:
 
-- Follow me on [Twitter](https://twitter.com/wolfdeerdev) to talk about web, mobile and video game development!.
 - See my profile on [LinkedIn](https://www.linkedin.com/in/cro22/)
 - And of course GitHub you're already on (Recursion).
 
