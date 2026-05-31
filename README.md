@@ -24,13 +24,6 @@ Outside of work, I am an avid gamer and reader. I find that playing video games 
 - See my profile on [LinkedIn](https://www.linkedin.com/in/cro22/)
 - And of course GitHub you're already on (Recursion).
 
-## Stats:
-<a href="https://github.com/cro22">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cro22&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/cro22">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cro22&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
-</a>
 <!--
 **Cro22/Cro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
