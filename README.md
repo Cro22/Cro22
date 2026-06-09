@@ -1,40 +1,23 @@
-# Hi! I am Jesus Nuñez :wave:
-<img src="https://raw.githubusercontent.com/Cro22/Cro22/master/banner-2.png" alt="banner that says Jesus Nuñez - Full Stack Web Dev, WordPress plugin Dev,  Unreal Games Dev">
-As a seasoned Full Stack Developer and Tech Manager with over 8 years of experience in the industry, I have worked with a wide range of technologies including Node.js, NestJS, Go, React, Vue, GCP, MySQL, Redis, and Jenkins among others.
+# Jesús Nuñez
 
-My experience includes managing teams of Tech Leads, Front-end developers, Back-end developers, QA, and Project Managers to ensure the successful delivery of software projects using various technologies such as Nodejs, React, GCP, Jenkins, MySQL, Redis, and Go.
+**Senior backend engineer building LLM systems that behave in production — Go for the systems, Python for the agents.**
 
-As a back-end developer, I take pride in my ability to design and implement scalable, robust, and secure systems that meet the needs of my clients. With a strong focus on quality and scalability, I strive to deliver high-quality solutions to clients.
+I work at the boundary between solid backend infrastructure and language models that have to be reliable: structured output, retrieval, multi-agent orchestration, and the deterministic fallbacks, cost caps, and validation guardrails that keep them honest. Eight years across Go, Node/TypeScript, and cloud platforms — from backend IC work to leading engineering teams.
 
-Fostering a positive work environment, supporting team growth, and ensuring they stay updated on the latest trends and technologies in software development is essential to achieving success in software projects.
+### What I'm building
 
-In my current role as a Tech Manager, I manage a team of three Tech Leads, six Front-end developers, six Back-end developers, four QA, and three PMs to ensure the successful delivery of software projects using technologies such as Nodejs, React, GCP, Jenkins, MySQL, Redis, and Go.
+**[CloudOracle](https://github.com/Cro22/CloudOracle)** — a multi-cloud FinOps toolkit in Go + Python. It audits live AWS/GCP/Azure spend, prices Terraform PRs before they merge (as a GitHub Action), and answers cost questions through a guardrailed multi-agent LLM system: a hand-rolled LangGraph supervisor, RAG over pgvector, semantic answer validation, and deterministic no-LLM fallbacks.
 
-Outside of work, I am an avid gamer and reader. I find that playing video games and diving into new books helps me relax and recharge, allowing me to return to my work with fresh perspectives and renewed energy.
+### Working with
 
-## Things I am passionate about
+`Go` · `Python` · `TypeScript / Node` · `React / React Native` · `PostgreSQL` · `pgvector` · `Redis` · `AWS` · `GCP` · `Docker` · `LangGraph` · `FastAPI`
 
-- Web development :computer:
-- Games :video_game:
-- Music :notes:
+### Currently
 
+- Building agentic LLM systems with real reliability engineering — evals, cost caps, deterministic fallbacks
+- Working toward CKAD
 
-## Get in touch :coffee:
+### Reach me
 
-- See my profile on [LinkedIn](https://www.linkedin.com/in/cro22/)
-- And of course GitHub you're already on (Recursion).
-
-<!--
-**Cro22/Cro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn — [/in/cro22](https://www.linkedin.com/in/cro22/)
+- X — [@wolfdeerdev](https://twitter.com/wolfdeerdev)
